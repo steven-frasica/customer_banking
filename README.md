@@ -7,8 +7,8 @@ Both `savings_account.py` and `customer_banking.py` import the `Account` class f
 
 The `customer_banking.py` returns the updated savings balance and interest earned, as well as the updated CD account balance and interest earned on that account to the user. </br>
 
-Sources
-Slack from Brandon regarding the print input and output for the user `customer_banking.py` `lines 13-15, 25-27, and 33-34` - https://aipteastoctob-ypv8330.slack.com/archives/C07K473EQCF/p1730495819736569 </br>
+<b>Sources</b> </br>
+Slack from Brandon (thank you) regarding the print input and output for the user `customer_banking.py` `lines 13-15, 25-27, and 33-34` - https://aipteastoctob-ypv8330.slack.com/archives/C07K473EQCF/p1730495819736569 </br>
 
 03-Python-Programming-2/3/Activities/05-Ins-Creating_Modules </br>
 03-Python-Programming-2/3/Activities/06-Stu_Bank_Account_Class </br>
